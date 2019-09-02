@@ -1,7 +1,8 @@
 theme: minima
-title: Die Welt
-author: Thortsten Muller
-email: huw.clarke@yahoo.com
+---
+title: "Huw"
+date: 2019-09-02
+---
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
